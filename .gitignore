@@ -1,0 +1,8 @@
+node_modules
+package-lock.json
+
+### VS Code ###
+.vscode/
+
+### OS related files ###
+.DS_Store
