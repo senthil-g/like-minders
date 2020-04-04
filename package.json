@@ -1,0 +1,20 @@
+{
+  "name": "like-minders",
+  "version": "1.0.0",
+  "description": "Platform to co-ordinate like minded people who are ready do social service.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/senthil-g/like-minders.git"
+  },
+  "keywords": ["volunteer","social","like","minded"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/senthil-g/like-minders/issues"
+  },
+  "homepage": "https://github.com/senthil-g/like-minders#readme"
+}
